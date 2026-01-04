@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Daymon!
+### 👋 Салют, я Daymon!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/Qv7y2c6c7c/giphy.gif" width="100%" height="200" style="object-fit: cover;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95b3EwazF5b3EwazF5b3EwazF5b3EwazF5b3EwazF5/oEI9uBYSzLpBK/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;">
 </div>
 
-<h3 align="center">🐈 Streamer & Content Creator</h3>
+<h3 align="center">🐈 Стример и Контент-мейкер</h3>
 
 <p align="center">
   <a href="https://twitch.tv/daymonmontage">
@@ -20,10 +20,10 @@
 
 ---
 
-- 🔭 I’m currently streaming **Voices of the Void**
-- 📍 From: **Vitebsk, Belarus**
-- ⚡ Fun fact: **"Насмешил придурка в зеркале."**
+- 🔭 Сейчас стримлю: **Почти все игры (Variety Streamer)**
+- 📍 Локация: **Витебск, Беларусь**
+- ⚡ Факт: **"Насмешил придурка в зеркале."**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daymonmontage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Daymon's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daymonmontage&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&locale=ru" alt="Daymon's Stats" />
 </div>
